@@ -1,0 +1,17 @@
+// SEARCH HEADERS
+$(".icon-search").click(function () {
+  $(".close-search").addClass("show");
+  $(".modal_search").addClass("show_search");
+  $(".icon-search").find("#form-search-icon").addClass("show");
+});
+$(".close-search").click(function () {
+  $(".close-search").removeClass("show");
+  $(".modal_search").removeClass("show_search");
+  $("#form-search-icon").removeClass("show");
+});
+$(".modal_search").click(function () {
+  $(".close-search").removeClass("show");
+  $(".modal_search").removeClass("show_search");
+  $(".icon-search").find("#form-search-icon").removeClass("show");
+});
+

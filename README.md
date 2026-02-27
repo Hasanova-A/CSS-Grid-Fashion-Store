@@ -1,4 +1,4 @@
-# CSS Grid Fashion Store UI 👗✨
+# CSS Grid Fashion Store UI 
 
 Salam! Bu repository mənim müasir veb-dizayn arxitekturasının ən güclü alətlərindən biri olan **CSS Grid Layout** texnologiyasını dərindən öyrənmək və tətbiq etmək üçün yığdığım "MixFashion" adlı moda və geyim e-ticarət şablonudur. Layihədə həm mürəkkəb Grid strukturlarından, həm də **Bootstrap 5**-in təqdim etdiyi responsiv xüsusiyyətlərdən istifadə etmişəm.
 
